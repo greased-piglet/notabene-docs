@@ -18,6 +18,7 @@ It's designed to feel like a first-party macOS feature — push-to-talk, invisib
 - [How It Works](docs/how-it-works.md) — what happens between key-down and paste
 - [FAQ](docs/faq.md) — common questions and install issues
 - [Troubleshooting](docs/troubleshooting.md) — errors, failed transcriptions, permission oddities
+- [Improving Transcription Accuracy](docs/improving-accuracy.md) — design note on handling commonly mistranscribed words (vocabulary biasing, replacements, LLM cleanup)
 - [Privacy](docs/privacy.md) — what leaves your Mac, what doesn't
 
 ---
